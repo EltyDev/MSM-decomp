@@ -1,0 +1,7 @@
+object_base: orig/RMKP01
+object: sys/main.dol
+hash: 02f2329b2e50cf12504f0bc1c7ed6e5a7841ae22
+selfile: files/Module/Final/MSW.sel
+selfile_hash: eee9bcbcb172d3c57f1139f14173d2fd5a878250
+symbols: config/RMKP01/symbols.txt
+splits: config/RMKP01/splits.txt
