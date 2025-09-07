@@ -1,5 +1,5 @@
 MSM-decomp
-[![Build Status]][actions] [![Code Progress]][progress] [![Data Progress]][progress] [![Discord Badge]][discord]
+[![Build Status]][actions]
 =============
 
 [Build Status]: https://github.com/EltyDev/MSM-decomp/actions/workflows/build.yml/badge.svg
