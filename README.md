@@ -1,9 +1,13 @@
 MSM-decomp
-[![Build Status]][actions]
+[![Build Status]][actions] [![Code Progress]][progress] [![Data Progress]][progress]
 =============
 
 [Build Status]: https://github.com/EltyDev/MSM-decomp/actions/workflows/build.yml/badge.svg
 [actions]: https://github.com/EltyDev/MSM-decomp/actions/workflows/build.yml
+
+[Code Progress]: https://decomp.dev/eltydev/msm-decomp.svg?mode=shield&measure=code&label=Code
+[Data Progress]: https://decomp.dev/eltydev/msm-decomp.svg?mode=shield&measure=data&label=Data
+[progress]: https://decomp.dev/eltydev/msm-decomp
 
 A work-in-progress decompilation of Mario Sports Mix.
 
@@ -64,7 +68,7 @@ Building
   git clone https://github.com/EltyDev/MSM-decomp.git
   ```
 
-- Copy your game's disc image to `orig/GAMEID`.
+- Copy your game's disc image to `orig/RMKP01`.
   - Supported formats: ISO (GCM), RVZ, WIA, WBFS, CISO, NFS, GCZ, TGC
   - After the initial build, the disc image can be deleted to save space.
 
@@ -74,7 +78,7 @@ Building
   python configure.py
   ```
 
-  To use a version other than `GAMEID` (USA), specify it with `--version`.
+  To use a version other than `RMKP01` (EU), specify it with `--version`.
 
 - Build:
 
