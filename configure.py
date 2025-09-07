@@ -302,6 +302,7 @@ config.libs = [
         "cflags": cflags_base,
         "progress_category": "game",
         "objects": [
+            Object(Matching, "game/msw/CStgGmkAct.cpp"),
         ],
     }
 ]

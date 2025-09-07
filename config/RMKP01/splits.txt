@@ -483,7 +483,7 @@ game/msw/CStgGmk.cpp:
 
 game/msw/CStgGmkAct.cpp:
 	.text       start:0x8017018C end:0x801701F8
-	.data       start:0x80475BD8 end:0x80475D70 skip
+	.data       start:0x80475BD8 end:0x80475D70
 
 game/msw/CStgGmkMan.cpp:
 	.text       start:0x8017056C end:0x80170890
